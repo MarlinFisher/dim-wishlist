@@ -61,5 +61,8 @@ https://destinytracker.com/destiny-2/db/items/1119734784-chroma-rush?perks=87828
 https://destinytracker.com/destiny-2/db/items/1289000550-plug-one1?perks=1636108362,4090651448,2969185026,1570042021,1754714824,4248210736,2323986101,518224747,0,2285418970#notes:PVP_GodRoll
 https://destinytracker.com/destiny-2/db/items/1289000550-plug-one1?perks=1636108362,4090651448,689005463,1570042021,1754714824,4248210736,2323986101,518224747,0,2285418970#notes:PVP_GodRoll
 
+https://destinytracker.com/destiny-2/db/items/1644680957-null-composure?perks=878286503,1840239774,2969185026,1570042021,1427256713,4248210736,2323986101,684616255,2931483505,2285418970#notes:PVP_GodRoll
+//https://destinytracker.com/destiny-2/db/items/1644680957-null-composure?perks=878286503,1840239774,2969185026,1570042021,1427256713,4248210736,2323986101,684616255,2931483505#notes:PVP_GodRoll
+
 // Format
 // https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt
