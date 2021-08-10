@@ -34,8 +34,14 @@ dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007
 dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007
 
 
+// The Deicide (pve)
+//notes: PVE tags:pve
+dimwishlist:item=217140611&perks=1332244541,3142289711,3161816588,2679249093
+
+
 // The Deicide (pvp)
 //notes: pvp tags:pvp
+dimwishlist:item=217140611&perks=1047830412,3142289711,3436462433,1546637391
 dimwishlist:item=217140611&perks=1332244541,3142289711,3161816588,2679249093
 
 
@@ -64,14 +70,14 @@ dimwishlist:item=304659313&perks=3525010810,409831596,706527188,2726471870
 dimwishlist:item=310708513&perks=3661387068,1885400500,2946784966,4104185692
 
 
-// Survivor's Epitaph ()
-//notes: good option
-dimwishlist:item=310708513&perks=3661387068,1885400500,3436462433,3592538738
+// Survivor's Epitaph (pve)
+//notes: PVE tags:pve
+dimwishlist:item=310708513&perks=3661387068,1885400500,2946784966,4104185692
 
 
-// Survivor's Epitaph ()
-//notes: good option
-dimwishlist:item=310708513&perks=3661387068,1885400500,2779035018,2458213969
+// Survivor's Epitaph (pvp)
+//notes: PVP tags:pvp
+dimwishlist:item=310708513&perks=839105230,1885400500,2946784966,1015611457
 
 
 // Berenger's Memory (god-pve,god-pvp)
@@ -351,19 +357,35 @@ dimwishlist:item=2222560548&perks=1392496348,2420895100,1820235745,3708227201
 dimwishlist:item=2222560548&perks=3250034553,3142289711,1359896290,1890422124
 
 
-// The Vision ()
+// The Vision (pve)
+//notes: PVE tags:pve
+dimwishlist:item=2414141462&perks=445755704,3142289711,2010801679,1015611457
 dimwishlist:item=2414141462&perks=445755704,3142289711,3436462433,1015611457
 
 
-// Shattered Cipher (pve,pvp)
-//notes: | tags:pve,pvp
-dimwishlist:item=2434225986&perks=1570042021,2387244414
-dimwishlist:item=2434225986&perks=1570042021,3425386926
+// The Vision (pvp)
+//notes: PVP tags:pvp
+dimwishlist:item=2414141462&perks=445755710,3142289711,3436462433,1015611457
+
+
+// Shattered Cipher (god-pve)
+//notes: GodPVE tags:god-pve
+dimwishlist:item=2434225986&perks=3661387068,106909392,1570042021,3425386926
+
+
+// Shattered Cipher (god-pvp)
+//notes: GodPVP tags:god-pvp
+dimwishlist:item=2434225986&perks=1392496348,3177308360,1645158859,957782887
 
 
 // The Number (pve)
-//notes: pve tags:pve
+//notes: PVE tags:pve
 dimwishlist:item=2492081469&perks=839105230,2420895100,3436462433,3592538738
+
+
+// The Number (pvp)
+//notes: PVP tags:pvp
+dimwishlist:item=2492081469&perks=839105230,1561002382,1645158859,2213355989
 
 
 // Code Duello (god-pve)
@@ -378,6 +400,13 @@ dimwishlist:item=2496242052&perks=1441682018,3796465595,951095735,3927722942
 dimwishlist:item=2496242052&perks=3525010810,2822142346,706527188,1275731761
 dimwishlist:item=2496242052&perks=3525010810,2822142346,706527188,3108830275
 
+
+// Compass Rose (pve,pvp)
+//notes: PVE PVP tags:pve,pvp
+dimwishlist:item=2591111628&perks=1047830412,791862061,3436462433,2360754333
+dimwishlist:item=2591111628&perks=1047830412,791862061,3436462433,1546637391
+dimwishlist:item=2591111628&perks=1300023272,791862061,3436462433,2360754333
+dimwishlist:item=2591111628&perks=1300023272,791862061,3436462433,1546637391
 
 // Shadow Price (god-pve)
 //notes: GodPVE tags:god-pve
